@@ -1,2 +1,2 @@
-# Naver_boostcourse_Kaggle_DS
-Kaggle_survey_2017
+# KAIST Academy ML Advanced courses
+
